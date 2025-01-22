@@ -1,14 +1,19 @@
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,cloudfront.net
+; love nature
+DOMAIN-SUFFIX,d18dyiwu97wm6q.cloudfront.net
+; cna
+DOMAIN-SUFFIX,d2e1asnsl7br7b.cloudfront.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
 DOMAIN-SUFFIX,4gtvfreemobile-cds.cdn.hinet.net
-DOMAIN-SUFFIX,,streaming.sk
-DOMAIN-SUFFIX,cloudycdn.services
+DOMAIN-SUFFIX,streaming.sk
+; fashion 4k
+DOMAIN-SUFFIX,fash2043.cloudycdn.services
 DOMAIN-SUFFIX,getaj.net
 DOMAIN-SUFFIX,cdn.byteark
+; canada one
 DOMAIN-SUFFIX,live247stream.com
 DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,shopch.jp
