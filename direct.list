@@ -153,8 +153,3 @@ DOMAIN-SUFFIX,ke.com
 
 ; libvio
 DOMAIN-KEYWORD,libvio
-
-; viu hls
-DOMAIN-SUFFIX,inhouse-stream.viu.tv
-; now
-DOMAIN-SUFFIX,dko29we9nm1rd.cloudfront.net
