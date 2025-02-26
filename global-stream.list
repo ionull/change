@@ -30,8 +30,3 @@ DOMAIN-SUFFIX,tdm.com.mo
 ;DOMAIN-SUFFIX,mediacast.hk
 ;hktv
 ;DOMAIN-SUFFIX,hkstv.tv
-
-; viu hls
-DOMAIN-SUFFIX,inhouse-stream.viu.tv
-; now
-DOMAIN-SUFFIX,dko29we9nm1rd.cloudfront.net
