@@ -93,7 +93,7 @@ DOMAIN-SUFFIX,1688.com
 ; tencent
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,webank.com
+DOMAIN-KEYWORD,webank
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,imqq.com
