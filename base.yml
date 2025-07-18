@@ -29,10 +29,10 @@ dns:
     - "https://doh.pub/dns-query"
     - "https://dns.alidns.com/dns-query"
   fallback:
-    - 8.8.8.8
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
+    #- 8.8.8.8
   fallback-filter:
     geoip: false
     ipcidr:
