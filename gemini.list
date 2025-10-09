@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,apis.google.com
 # DOMAIN,content-developerprofiles-pa.googleapis.com
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,aistudio.google.com
