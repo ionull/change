@@ -25,12 +25,18 @@ dns:
     - localhost.ptlogin2.qq.com
   nameserver:
     - 119.29.29.29
+    - 1.1.1.1
     - "https://223.5.5.5/dns-query"
     - "https://doh.pub/dns-query"
     - "https://dns.alidns.com/dns-query"
   nameserver-policy:
     "+.tvb.com": "1.1.1.1"
     "+.mytvsuper.com": "1.1.1.1"
+    "+.qq.com": "119.29.29.29"
+    "+.wechat.com": "119.29.29.29"
+    "+.tencent-cloud.net": "119.29.29.29"
+    "+.tcdnos.com": "119.29.29.29"
+    "+.lioncdn.net": "8.8.4.4"
   fallback:
     - 8.8.4.4
     - tls://1.0.0.1:853
@@ -61,4 +67,3 @@ dns:
       - +.youtube.com
       - +.githubusercontent.com
       - +.cloudfront.net
-      - +.lioncdn.net
