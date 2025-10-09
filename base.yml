@@ -30,8 +30,7 @@ dns:
     - "https://doh.pub/dns-query"
     - "https://dns.alidns.com/dns-query"
   nameserver-policy:
-    #"+.tvb.com": "1.1.1.1"
-    "+.tvb.com": "223.5.5.5"
+    "+.tvb.com": "1.1.1.1"
     "+.mytvsuper.com": "1.1.1.1"
     "+.qq.com": "119.29.29.29"
     "+.wechat.com": "119.29.29.29"
