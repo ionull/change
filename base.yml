@@ -36,6 +36,7 @@ dns:
     "+.wechat.com": "119.29.29.29"
     "+.tencent-cloud.net": "119.29.29.29"
     "+.tcdnos.com": "119.29.29.29"
+    "+.lioncdn.net": "223.6.6.6"
   fallback:
     - 8.8.4.4
     - tls://1.0.0.1:853
@@ -66,4 +67,3 @@ dns:
       - +.youtube.com
       - +.githubusercontent.com
       - +.cloudfront.net
-      - +.lioncdn.net
