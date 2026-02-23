@@ -49,3 +49,6 @@ DOMAIN-SUFFIX,v2h-cdn.com
 DOMAIN-SUFFIX,1033946631.cloudvdn.com
 
 DOMAIN-SUFFIX,macaulotustv.com
+
+; mytv hls
+DOMAIN-SUFFIX,playouts.now.amagi.tv
