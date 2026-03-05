@@ -22,6 +22,8 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-filter:
     - "*.lan"
+    - localhost
+    - "*.local"
     - localhost.ptlogin2.qq.com
   default-nameserver:
     - 119.29.29.29
