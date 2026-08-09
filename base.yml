@@ -47,9 +47,6 @@ dns:
     "+.tencent-cloud.net": "119.29.29.29"
     "+.tcdnos.com": "119.29.29.29"
     "+.lioncdn.net": "223.6.6.6"
-    "RULE-SET:🦴 Gemini,💬 OpenAi,🦀 Claude":
-      - https://1.1.1.1/dns-query#AI
-      - https://8.8.8.8/dns-query#AI
     "geosite:google-gemini,google,openai,anthropic,telegram,x":
       - https://1.1.1.1/dns-query#AI
       - https://8.8.8.8/dns-query#AI
