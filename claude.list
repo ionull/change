@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,siftscience.com
 DOMAIN-KEYWORD,-datadoghq.com
 DOMAIN-SUFFIX,sentry.io
+;DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,hcaptcha.com
