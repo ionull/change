@@ -6,6 +6,7 @@ hosts:
   cache.ott.wasulive.itv.cmvideo.cn: pixman.io.wasulive.dnsany.com
   cache.ott.fifalive.itv.cmvideo.cn: 39.134.14.189
   cache.ott.hnbblive.itv.cmvideo.cn: pixman.io.hnbblive.dnsany.com
+  gslbserv.itv.cmvideo.cn: 39.134.14.189
   zqhswlive.itv.cmvideo.cn: pixman.io.fifalive.dnsany.com
   studentlive.migucloud.com: pixman.io.fifalive.dnsany.com
   tvonline.sun0769.com: 113.214.170.247
